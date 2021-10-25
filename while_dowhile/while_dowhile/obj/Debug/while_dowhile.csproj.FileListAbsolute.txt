@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\bin\Debug\while_dowhile.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\bin\Debug\while_dowhile.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\bin\Debug\while_dowhile.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\obj\Debug\while_dowhile.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\obj\Debug\while_dowhile.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\obj\Debug\while_dowhile.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\while_dowhile\while_dowhile\obj\Debug\while_dowhile.pdb

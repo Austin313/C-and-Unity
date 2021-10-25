@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\obj\Debug\PackageExpress.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\bin\Debug\PackageExpress.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\bin\Debug\PackageExpress.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\obj\Debug\PackageExpress.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\PackageExpress\PackageExpress\obj\Debug\PackageExpress.pdb
