@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\bin\Debug\CarInsuranceProgram.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\CarInsuranceProgram\CarInsuranceProgram\obj\Debug\CarInsuranceProgram.pdb
