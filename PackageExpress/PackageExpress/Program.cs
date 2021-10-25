@@ -10,7 +10,7 @@ namespace PackageExpress
             Console.WriteLine("Please enter the Package Weight");
             string weightString = Console.ReadLine();
             int Weight = Convert.ToInt32(weightString);
-            if (Weight >= 50)
+            if (Weight > 50)
             {
                 Console.WriteLine("This package is too heavy. Please reduce the weight.");
                 Console.ReadLine();
