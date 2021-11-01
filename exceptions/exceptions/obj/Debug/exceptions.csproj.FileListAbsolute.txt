@@ -1,0 +1,7 @@
+C:\Users\Juicebox\source\repos\exceptions\exceptions\bin\Debug\exceptions.exe.config
+C:\Users\Juicebox\source\repos\exceptions\exceptions\bin\Debug\exceptions.exe
+C:\Users\Juicebox\source\repos\exceptions\exceptions\bin\Debug\exceptions.pdb
+C:\Users\Juicebox\source\repos\exceptions\exceptions\obj\Debug\exceptions.csproj.AssemblyReference.cache
+C:\Users\Juicebox\source\repos\exceptions\exceptions\obj\Debug\exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\source\repos\exceptions\exceptions\obj\Debug\exceptions.exe
+C:\Users\Juicebox\source\repos\exceptions\exceptions\obj\Debug\exceptions.pdb
