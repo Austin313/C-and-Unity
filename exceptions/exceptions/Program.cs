@@ -41,11 +41,11 @@ namespace exceptions
                 num.Add(7);
                 num.Add(3);
                 num.Add(42);
+                int input = Convert.ToInt32(Console.ReadLine());
                 for (int i = 0; i <= 2; i++)
                 {
                     Console.WriteLine("Enter a number to divide in the list");
                     Console.WriteLine(num[i]);
-                    int input = Convert.ToInt32(Console.ReadLine());
                     int divide = num[i] / input;
                     Console.WriteLine(num[i] + " divided by " + input + " equals " + divide);
                 }      
