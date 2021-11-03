@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\bin\Debug\classes and objects.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\bin\Debug\classes and objects.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\bin\Debug\classes and objects.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\obj\Debug\classes and objects.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\obj\Debug\classes and objects.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\obj\Debug\classes and objects.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\classes and objects\classes and objects\obj\Debug\classes and objects.pdb
