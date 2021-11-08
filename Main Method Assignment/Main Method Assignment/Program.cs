@@ -10,11 +10,31 @@ namespace Main_Method_Assignment
     {
         static void Main(string[] args)
         {
-            Integer1.Method1();
+            Integer1 integer = new Integer1();
+
+            Console.WriteLine("Lets Add!");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            integer.Method1(num1,num2);
+
+            Console.WriteLine("==============================");
+
+            Console.WriteLine("Multiply two decimals together");
+            decimal num3 = Convert.ToDecimal(Console.ReadLine());
+            decimal num4 = Convert.ToDecimal(Console.ReadLine());
+            integer.Method2(num3, num4);
+
+            Console.WriteLine("==============================");
+
+            Console.WriteLine("Enter a number");
+            int Number = Convert.ToInt32(Console.ReadLine());
+            integer.Method3(Number);
+
+            Console.WriteLine("=================================");
+
             Console.ReadLine();
-            Integer1.Method2();
-            Console.ReadLine();
-            Integer1.Method3();
+
         }
+   
     }
 }

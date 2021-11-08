@@ -8,28 +8,24 @@ namespace Main_Method_Assignment
 {
     class Integer1
     {
-        public static void Method1()
+        public int Method1(int num1, int num2)
         {
-            Console.WriteLine("Lets Add!");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            int num2 = Convert.ToInt32(Console.ReadLine());
+            
             int result = num2 + num1;
             Console.WriteLine(result);
+            return result;
         }
-        public static void Method2()
+        public int Method2(decimal num1, decimal num2)
         {
-            Console.WriteLine("Multiply two decimals together");
-            double num1 = Convert.ToDouble(Console.ReadLine());
-            double num2 = Convert.ToDouble(Console.ReadLine());
-            double result = num1 * num2;
+            int result = Convert.ToInt32(num1 * num2);
             Console.WriteLine(result);
+            return result;
         }
-        public static void Method3()
-        {
-            Console.WriteLine("Enter a number");
-            int Number = Convert.ToInt32(Console.ReadLine());
+        public int Method3(int Number)
+        {           
             int result = Number * 6;
-            Console.WriteLine(Number + " Times 6 equals " + result);
+            Console.WriteLine(Number + " times 6 equals " + result);
+            return result;
         }
     }
 }
