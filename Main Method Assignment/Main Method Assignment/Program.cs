@@ -15,20 +15,20 @@ namespace Main_Method_Assignment
             Console.WriteLine("Lets Add!");
             int num1 = Convert.ToInt32(Console.ReadLine());
             int num2 = Convert.ToInt32(Console.ReadLine());
-            integer.Method1(num1,num2);
+            integer.Method(num1,num2);
 
             Console.WriteLine("==============================");
 
             Console.WriteLine("Multiply two decimals together");
             decimal num3 = Convert.ToDecimal(Console.ReadLine());
             decimal num4 = Convert.ToDecimal(Console.ReadLine());
-            integer.Method2(num3, num4);
+            integer.Method(num3, num4);
 
             Console.WriteLine("==============================");
 
             Console.WriteLine("Enter a number");
-            int Number = Convert.ToInt32(Console.ReadLine());
-            integer.Method3(Number);
+            string Number = Console.ReadLine();
+            integer.Method(Number);
 
             Console.WriteLine("=================================");
 
