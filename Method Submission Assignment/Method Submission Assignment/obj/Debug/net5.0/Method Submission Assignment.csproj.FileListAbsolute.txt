@@ -1,0 +1,16 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\Method Submission Assignment.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\Method Submission Assignment.deps.json
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\Method Submission Assignment.runtimeconfig.json
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\Method Submission Assignment.runtimeconfig.dev.json
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\Method Submission Assignment.dll
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\ref\Method Submission Assignment.dll
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\bin\Debug\net5.0\Method Submission Assignment.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.AssemblyInfoInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.AssemblyInfo.cs
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.dll
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\ref\Method Submission Assignment.dll
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Method Submission Assignment\Method Submission Assignment\obj\Debug\net5.0\Method Submission Assignment.genruntimeconfig.cache
