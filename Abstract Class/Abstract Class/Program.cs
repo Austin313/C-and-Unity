@@ -10,6 +10,8 @@ namespace Abstract_Class
             employee.FirstName = "Sample";
             employee.LastName = "Student";
             employee.SayName();
+            employee.IsQuitting = true;
+            employee.Quit();
             Console.ReadLine();
         }
     }
