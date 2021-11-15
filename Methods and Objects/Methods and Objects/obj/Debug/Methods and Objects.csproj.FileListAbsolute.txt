@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\bin\Debug\Methods and Objects.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\bin\Debug\Methods and Objects.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\bin\Debug\Methods and Objects.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Methods and Objects\Methods and Objects\obj\Debug\Methods and Objects.pdb

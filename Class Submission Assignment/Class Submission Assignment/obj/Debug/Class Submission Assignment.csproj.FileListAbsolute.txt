@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\bin\Debug\Class Submission Assignment.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\bin\Debug\Class Submission Assignment.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\bin\Debug\Class Submission Assignment.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\Class Submission Assignment\Class Submission Assignment\obj\Debug\Class Submission Assignment.pdb
