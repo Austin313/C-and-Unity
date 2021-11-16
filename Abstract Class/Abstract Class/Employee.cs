@@ -12,6 +12,32 @@ namespace Abstract_Class
         {
             Console.WriteLine("Name: [" + FirstName + " " + LastName + "]");
         }
+        public int Id { get; set; }
+        public static bool operator ==(Employee emp1, Employee emp2)
+        {
+            if (emp1.Id == emp2.Id)
+                return true;
+
+            return false;
+
+        }
+        public static bool operator !=(Employee emp1, Employee emp2)
+        {
+            if (emp1.Id != emp2.Id)
+                return true;
+
+            return false;
+
+        }
+        public override bool Equals(object obj)
+        {
+            return (obj as Employee).Id.Equals(this.Id);
+        }
+
+        public override int GetHashCode()
+        {
+            return this.Id.GetHashCode();
+        }
 
         public bool IsQuitting { get; set; }
         public void Quit()
