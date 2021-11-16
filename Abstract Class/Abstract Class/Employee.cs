@@ -6,14 +6,14 @@ using System.Threading.Tasks;
 
 namespace Abstract_Class
 {
-    class Employee : Person, IQuittable
+    class Employee<T> : Person, IQuittable
     {
         public override void SayName()
         {
             Console.WriteLine("Name: [" + FirstName + " " + LastName + "]");
         }
         public int Id { get; set; }
-        public static bool operator ==(Employee emp1, Employee emp2)
+        public static bool operator ==(Employee<T> emp1, Employee<T> emp2)
         {
             if (emp1.Id == emp2.Id)
                 return true;
@@ -21,7 +21,7 @@ namespace Abstract_Class
             return false;
 
         }
-        public static bool operator !=(Employee emp1, Employee emp2)
+        public static bool operator !=(Employee<T> emp1, Employee<T> emp2)
         {
             if (emp1.Id != emp2.Id)
                 return true;
@@ -31,7 +31,7 @@ namespace Abstract_Class
         }
         public override bool Equals(object obj)
         {
-            return (obj as Employee).Id.Equals(this.Id);
+            return (obj as Employee<T>).Id.Equals(this.Id);
         }
 
         public override int GetHashCode()
@@ -52,5 +52,6 @@ namespace Abstract_Class
             }
         }
 
+        public List<T> things { get; set; }
     }
 }
