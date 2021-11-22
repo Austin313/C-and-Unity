@@ -36,6 +36,7 @@ namespace lamda
                     Console.WriteLine("This has been added to the list.");
                 }
             }
+            List<Employee> joeList2 = employees.Where(x => x.FName == "Joe").ToList();
             List<Employee> ID = employees.Where(x => x.ID >= 5).ToList();
             foreach (Employee emp in employees)
             {
