@@ -1,0 +1,2 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\BlackJack\BlackJack\obj\Debug\BlackJack.csproj.CoreCompileInputs.cache

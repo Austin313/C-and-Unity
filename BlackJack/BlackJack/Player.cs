@@ -12,7 +12,7 @@ namespace BlackJack
         public Player(string name, int begginingBalance)
         {
             Hand = new List<Card>();
-            Balance = begginingBalance;
+            balance = begginingBalance;
             Name = name;
         }
         public List<Card> Hand { get; set; }
@@ -21,6 +21,19 @@ namespace BlackJack
         public bool isActivelyPlaying { get; set; }
         public bool stay { get; set; }
 
+        public bool Bet(int amount)
+        {
+            if (balance - amount < 0)
+            {
+                Console.WriteLine("You do not have enough to place a bet that size.");
+                return false;
+            }
+            else
+            {
+                balance -= amount;
+                return true;
+            }
+        }
         public static Game operator +(Game game, Player player)
         {
             game.Players.Add(player);
