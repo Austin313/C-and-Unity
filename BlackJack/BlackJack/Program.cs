@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.IO;
 
 namespace BlackJack
 {
@@ -10,6 +11,7 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
+            DateTime datetime = new DateTime(2001,6,23);
             Console.WriteLine("Welcome to the Grand Hotel Casino. Lets start by telling me your name.");
             string name = Console.ReadLine();
             Console.WriteLine("How much money did you bring today?");

@@ -1,0 +1,7 @@
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\obj\Debug\datetime.csproj.AssemblyReference.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\obj\Debug\datetime.csproj.CoreCompileInputs.cache
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\bin\Debug\datetime.exe.config
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\bin\Debug\datetime.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\bin\Debug\datetime.pdb
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\obj\Debug\datetime.exe
+C:\Users\Juicebox\Documents\GitHub\C-and-Unity\datetime\datetime\obj\Debug\datetime.pdb
